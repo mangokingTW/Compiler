@@ -1,5 +1,5 @@
 %{
-#include <bsd/string.h>
+#include <string.h>
 
 #define MAX_LINE_LENGTH 257
 #define MAX_ID_LENGTH 257
